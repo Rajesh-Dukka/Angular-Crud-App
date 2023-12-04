@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Rajesh",
+      "email": "raj@gmail.com",
+      "mobile": 12345,
+      "city": "Banglore"
+    },
+    {
+      "id": 2,
+      "name": "Murthy",
+      "email": "murthy@gmail.com",
+      "mobile": 67890,
+      "city": "Mumbai"
+    },
+    {
+      "id": 3,
+      "name": "Sai",
+      "email": "sai@gmail.com",
+      "mobile": 145678,
+      "city": "Chennai"
+    },
+    {
+      "id": 4,
+      "name": "Venky",
+      "email": "venky@gmail.com",
+      "mobile": 9876543,
+      "city": "Pune"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
